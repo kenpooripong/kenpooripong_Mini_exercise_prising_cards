@@ -1,0 +1,11 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+@media (max-width: 800px) {
+    .container {
+        width: 800px;
+    }
+}
